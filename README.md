@@ -1,4 +1,6 @@
-# Initia-labs Tap
+# Initia Homebrew Tap
+
+Homebrew formulae that allows the installation of Initia tools and applications through the [Homebrew](https://brew.sh/) package manager.
 
 ## How do I install these formulae?
 

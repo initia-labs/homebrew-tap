@@ -1,0 +1,4 @@
+*.bottle.*
+/build/
+.vscode/*
+.idea/*
