@@ -5,20 +5,20 @@
 class Weave < Formula
   desc "Cli tool for developing, testing, and running interwoven rollup"
   homepage "https://github.com/initia-labs/weave"
-  url "https://github.com/initia-labs/weave/archive/refs/tags/v0.1.5.tar.gz"
-  version "0.1.5"
-  sha256 "995001deb984cfa537f3314a741c430507d83c790b179ded93344e5fdef4baba"
+  url "https://github.com/initia-labs/weave/archive/refs/tags/v0.1.6.tar.gz"
+  version "0.1.6"
+  sha256 "c6d0602c0e12b8f0c44cbdfecbe875659e5fe2421f40791f0b3f5ec0d005b5d3"
   license "BSD-3-Clause"
 
   on_macos do
     on_intel do
-      url "https://github.com/initia-labs/weave/releases/download/v0.1.5/weave-0.1.5-darwin-amd64.tar.gz"
-      sha256 "81819de2944f0573b3fd67974614752b99f1e6ecda101f9e8682821e2e7619b3"
+      url "https://github.com/initia-labs/weave/releases/download/v0.1.6/weave-0.1.6-darwin-amd64.tar.gz"
+      sha256 "4801ac947b78a4a72dcec44166c9b978af4b875623c42cf8aacbd896dcc5af98"
     end
 
     on_arm do
-      url "https://github.com/initia-labs/weave/releases/download/v0.1.5/weave-0.1.5-darwin-arm64.tar.gz"
-      sha256 "b97d952031565f29d9f5c0340e7dde6dfe4f076e2a584288713ee37b6b0eb38f"
+      url "https://github.com/initia-labs/weave/releases/download/v0.1.6/weave-0.1.6-darwin-arm64.tar.gz"
+      sha256 "fa97cc860b5af19129dae25a78ecfb999f458d6903ea5508527824887bdcf917"
     end
   end
 
